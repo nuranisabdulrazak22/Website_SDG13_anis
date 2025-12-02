@@ -94,3 +94,54 @@ The stylesheet defines:
 
 * CSS Variables
 
+Used for theme colors, shadows, spacing and fonts.
+
+* Global Styles
+
+Box-sizing
+Typography
+Smooth rendering
+
+* Layout Tools
+
+- container for max-width layout
+- grid and .flex sections
+
+Responsive media queries for ≥700px and ≥1024px
+
+* Component Styles
+
+Navigation
+Hero banner
+Cards
+Tracks grid
+Speaker cards
+Sponsor logo hover effects
+Form styling
+Footer and contact section
+
+* Accessibility
+
+Focus outline styling
+Skip-link visibility
+
+### How to Use / Run the Website
+
+Download all files
+Make sure index.html and styles.css are in the same directory
+Ensure assets (images) are inside an img folder
+Open index.html in a browser
+(Optional) Upload to GitHub Pages, Netlify, or Vercel
+
+### Future Enhancements (Optional)
+
+Add JavaScript for animations
+Add registration backend (Firebase, Supabase, PHP, etc.)
+Implement dark mode toggle
+Add countdown timer for the event
+
+### Credit
+
+Designed & developed by Nur Anis Abdul Razak (2407-1046)
+
+
