@@ -1,0 +1,95 @@
+# Climate Action Hackathon Malaysia 2025
+### *Urban Heat & Flood Resilience  (SDG 13: Climate Action)*
+
+This project is a responsive, accessibility-friendly event website created for Climate Action Hackathon Malaysia 2025, focusing on SDG 13: Climate Action with emphasis on urban heat and flood resilience.
+It provides event information, schedules, speakers, tracks, datasets, registration, and sponsor details.
+
+### Features
+- Fully Responsive Layout
+Works on mobile, tablet, and desktop using CSS Grid & Flexbox.
+- Clean UI & Consistent Styling
+Uses custom CSS variables for colors, spacing, radius, and shadows.
+Minimalistic and modern design.
+
+-Accessibility Optimized
+Includes skip to content link.
+Semantic HTML tags (header, main, section, nav, ul, figure, etc.).Focus states on interactive elements.
+
+- Structured Event Sections
+Hero banner
+Event details
+SDG 13 explanation
+Timeline schedule
+Speakers & mentors
+Tracks & challenges
+Malaysian open-data resources
+Registration form
+Sponsors
+Contact & FAQ
+Footer credits
+
+### Technologies Used
+Technology	Purpose
+HTML5	Structure and content of the website
+CSS3	Layout, grid, animations, styling
+Responsive Design	Mobile-first layout
+ARIA attributes	Better accessibility
+HTML Overview (index.html)
+
+The HTML file includes:
+
+* Header & Navigation
+
+Event name
+Tagline
+
+Navigation menu linking to page sections
+
+* Hero Section
+
+Main headline
+CTA buttons
+Event summary
+Hero image
+
+* Event Information Sections
+
+About
+SDG 13
+Schedule
+Speaker cards
+Tracks grid
+Resources list
+
+* Registration Form
+
+Fields include:
+Name
+Email
+Role
+Track interest
+Notes
+Submit button
+
+* Sponsors & Partners Grid
+
+Auto-fitting logos
+
+Grayscale hover animation
+
+* Contact
+
+Email
+Instagram
+Short FAQ
+
+* Footer
+
+Copyright
+Designer credit
+
+### CSS Overview (styles.css)
+
+The stylesheet defines:
+
+* CSS Variables
